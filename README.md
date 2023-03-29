@@ -1,8 +1,8 @@
 # EXPERIMENT-01-INTERFACING-A-DIGITAL-OUTPUT-TO-IOT-DEVELOPMENT-BOARD
 
 ~~~
-Name   : H.Syed Abdul Wasih
-Reg No : 212221240057
+Name   : Jagan A
+Reg No : 212221230037
 Date   : 23/03/2023
 ~~~
 ## Aim: To Interface a Digital output (LED) to ARM IOT development board and write a  program to blink an led 
